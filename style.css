@@ -1,0 +1,39 @@
+body {
+	background-color:black;
+}
+h2 {
+	color: white;
+	font-weight: bold;
+	
+}
+
+#descrip{
+	width:200px;
+	height:100px;
+	position:absolute;
+	top:50px;
+	left:600px;
+}
+
+#form{
+	width:200px;
+	height:100px;
+	position:absolute;
+	top:150px;
+	left:580px;
+}
+
+.outer_div{
+    position: fixed;
+    top: 20%;
+    width: 60%;
+    bottom: 20%;
+    border: none;
+    background-color:black;
+	color:white;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 5px;
+
+}
+
